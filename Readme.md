@@ -26,7 +26,7 @@ The output looks like a well-shot DSLR photograph of the original scene, not an 
 
 ## How It Works
 
-![Before After](screenshots/before-after.png)
+![Before After](https://raw.githubusercontent.com/amaan-x8/remaster/main/screenshots/before-after.png)
 
 **4-step workflow:**
 
