@@ -26,7 +26,7 @@ The output looks like a well-shot DSLR photograph of the original scene, not an 
 
 ## How It Works
 
-![Remaster — Before & After](before-after.png)
+![Before After](screenshots/before-after.png)
 
 **4-step workflow:**
 
